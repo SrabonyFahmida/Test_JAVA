@@ -13,7 +13,7 @@ public class MenuItem {
     }
 
     public String getName() {
-        return price;
+        return name;
     }
 
     public void setName(String name) {
